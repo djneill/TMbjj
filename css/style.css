@@ -1,3 +1,39 @@
+.bg-review {
+    background: url(../img/10.jpg) repeat fixed;
+}
+
+.bg-white {
+    background: #ffffff !important;
+}
+
+.bg-blueGreen {
+    background: #00e600; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, #00aaff,#00e600); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #00aaff,#00e600); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #00aaff,#00e600); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #00aaff,#00e600 ); /* Standard syntax (must be last) */
+}
+
+.bg-redBlue {
+    background: #fc1f2a; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, #fc1f2a,#1a75ff); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #fc1f2a,#1a75ff); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #fc1f2a,#1a75ff); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #fc1f2a,#1a75ff ); /* Standard syntax (must be last) */
+}
+
+.grey-box {
+    color: #F05F40;
+    background-color: rgba(204, 204, 204, .89);
+    border-radius: 7px;
+    box-sizing: content-box; 
+}
+
+.top-pad {
+    margin-top: -24px;
+    padding-top: 15px;
+}
+
 .red {
     color: red;
 }
@@ -9,7 +45,7 @@
 .test {
     display: block;
     width: 100%;
-    height: 100%;
+    height: 92%;
 }
 
 .kidButton {
@@ -59,8 +95,8 @@
 
 .shadow {
     -webkit-box-shadow: 14px 14px 8px 3px rgba(0,0,0,0.75);
--moz-box-shadow: 14px 14px 8px 3px rgba(0,0,0,0.75);
-box-shadow: 14px 14px 8px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 14px 14px 8px 3px rgba(0,0,0,0.75);
+    box-shadow: 14px 14px 8px 3px rgba(0,0,0,0.75);
 }
 
 .border {
