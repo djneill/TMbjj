@@ -1,6 +1,7 @@
-I recreated an existing gym's website in my own image.
+<img src="img/readbjj.png" alt="website homepage" />
 
-Gym's original page http://johnsgymtemple.com/
+# John's Gym BJJ
 
-My version of their page http://dninstalls.com/tmbjj/
+Client site for a brazilian jiu-jitsu gym
 
+👉 https://tmbjj.netlify.app/
