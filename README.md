@@ -22,8 +22,6 @@ Take a look at it here 👉 https://tmbjj.netlify.app/
                 alt="bootstrap" width="40" height="40" /> </a>
 </p>
 
-We built an API on node.js that takes the user input and random AI player input then run it through a conditional to see if the user won, lost, or tied. We made the AI choices randomization on the server side, the data was then sent to client side JavaScript to display the result on the DOM. We then used  CSS3 to make the page more appealing and engaging for the player.
-
 <h2 align="center">Optimizations</h2>
 
-We optimized this to fit all screen sizes as best as possible. The goal was to keep the page above the fold so the user would not have to scroll down to see their results.
+Optimized this to fit all screen sizes as best as possible. The goal was to keep the page above the fold so the user would not have to scroll down to see their results.
