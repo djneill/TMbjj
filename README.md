@@ -24,4 +24,4 @@ Take a look at it here 👉 https://tmbjj.netlify.app/
 
 <h2 align="center">Optimizations</h2>
 
-Optimized this to fit all screen sizes as best as possible. The goal was to keep the page above the fold so the user would not have to scroll down to see their results.
+Optimized this to fit all screen sizes as best as possible. The goal was for the user to have a fluid experience on all their devices. Designed with mobile first in mind.
